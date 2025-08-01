@@ -26,4 +26,4 @@ This dashboard provides interactive visuals and key metrics to help understand:
 ---
 
 ## Show What the dashboard looks like.
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/michaelstern25/Banking-Analysis/blob/main/Dashboard.jpg)
